@@ -102,7 +102,7 @@ Testing the webserver.
 
 # OUTPUT:
 ![alt text](<Screenshot 2025-09-19 170002.png>)
-
+![alt text](<Screenshot 2025-09-19 174508.png>)
 
 # RESULT:
 The program for implementing simple webserver is executed successfully.
