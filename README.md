@@ -21,6 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 # PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -99,8 +100,10 @@ Testing the webserver.
 
 </body>
 </html>
+```
 
 # OUTPUT:
+
 ![alt text](<Screenshot 2025-09-19 170002.png>)
 ![alt text](<Screenshot 2025-09-19 174508.png>)
 
